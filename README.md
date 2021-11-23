@@ -35,7 +35,7 @@ Then you can clone this reposity into your jupyter workspace and try to run the 
 
 内容格式上基本上是一道题一份jupyter notebook文件，按 sicp-章节号-题目号 命名。
 
-为了阅读方便，做了[目录](./index.ipynb)，大家可以直接点进去阅读
+为了阅读方便，做了[目录](./index.md)，大家可以直接点进去阅读
 
 
 ## 运行
